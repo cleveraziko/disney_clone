@@ -35,7 +35,6 @@ function Header() {
     </Nav>
   );
 }
-
 export default Header;
 
 const Nav = styled.nav`
